@@ -1,0 +1,13 @@
+
+.dates{
+    display: flex;
+    flex-direction: column;
+    
+}
+input{
+    background-color:#E4E4E4;
+    color: #959595;
+    width: 200px;
+    height: 25px;
+
+}

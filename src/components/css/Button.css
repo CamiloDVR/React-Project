@@ -1,0 +1,10 @@
+.room{
+        background-color: rgb(255, 175, 14);
+        border-radius: 10px;
+        padding: 20px;
+        width: 200px;
+        max-width: 400px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 2em;
+        
+}
